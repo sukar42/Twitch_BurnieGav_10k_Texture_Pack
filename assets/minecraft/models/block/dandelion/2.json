@@ -1,0 +1,7 @@
+{
+    "__comment": "TheVoid1313's AD Reforged - by kyctarniq",
+    "parent": "block/cross",
+    "textures": {
+        "cross": "blocks/flower_dandelion/2"
+    }
+}

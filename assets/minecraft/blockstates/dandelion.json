@@ -1,0 +1,10 @@
+{
+    "__comment": "TheVoid1313's AD Reforged - by kyctarniq",
+    "variants": {
+        "normal": [
+            { "model": "dandelion/0", "weight": 15 },
+            { "model": "dandelion/1", "weight": 15 },
+            { "model": "dandelion/2", "weight": 15 }
+		]
+    }
+}

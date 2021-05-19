@@ -1,0 +1,9 @@
+{
+    "__comment": "TheVoid1313's AD Reforged - by kyctarniq",
+    "variants": {
+        "normal": [
+            { "model": "houstonia/0", "weight": 15 },
+            { "model": "houstonia/1", "weight": 15 }
+		]
+    }
+}
