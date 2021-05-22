@@ -1046,7 +1046,7 @@ item.eyeOfEnder.name=Eye of Ender
 item.speckledMelon.name=Glistering Melon
 item.monsterPlacer.name=Spawn
 item.expBottle.name=Bottle o' Enchanting
-item.fireball.name=boule de feu
+item.fireball.name=Fireball
 item.writingBook.name=Book and Quill
 item.writtenBook.name=Written Book
 item.ruby.name=Ruby
@@ -1137,7 +1137,7 @@ item.canPlace=Can be placed on:
 
 entity.Item.name=Item
 entity.XPOrb.name=Experience Orb
-entity.SmallFireball.name=boule de feu
+entity.SmallFireball.name=Fireball
 entity.Fireball.name=boule de feu
 entity.ThrownPotion.name=Potion
 

@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"back": "blocks/itemframe_background"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 15.5],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0.03071, 0.03071, 16, 16], "texture": "#back"},
+				"south": {"uv": [3, 3, 13, 13], "texture": "#back"}
+			}
+		}
+	]
+}
