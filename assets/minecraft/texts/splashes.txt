@@ -1,4 +1,4 @@
-§dBhavblack
+§bB§ah§ea§cv§db§1l§2a§ec§4k
 §dGoose
 §dSailor
 §dSukar42
@@ -6,3 +6,6 @@
 §dHyominion
 §dSnaper
 §dPro Tip Don't fall into the Void!
+§dAlso try out the Finchpack 16x.
+§dAlso try out the AD_Reforged 32x pack.
+§dAlso try out the Faithful 32x pack.
